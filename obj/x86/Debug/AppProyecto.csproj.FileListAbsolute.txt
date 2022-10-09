@@ -1,0 +1,9 @@
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\bin\Debug\AppProyecto.exe
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\bin\Debug\AppProyecto.pdb
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.FrmProyecto.resources
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.Properties.Resources.resources
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.csproj.GenerateResource.Cache
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.exe
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.pdb
+c:\users\plagu4\documents\visual studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.FrmAsginacion.resources
+C:\Users\Plagu4\Documents\Visual Studio 2010\Projects\AppProyecto\AppProyecto\obj\x86\Debug\AppProyecto.csprojResolveAssemblyReference.cache
